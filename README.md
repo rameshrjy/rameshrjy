@@ -52,8 +52,8 @@ I am a passionate **Senior Software Engineer** with 8+ years of experience in we
 ---
 
 ## 📫 How to reach me:
-- LinkedIn: [Ramesh Ramaiah](https://www.linkedin.com/in/your-profile)
-- Email: rameshrjy@gmail.com
+- LinkedIn: [Ramesh Ramaiah](https://www.linkedin.com/in/rameshramaiah)
+- Email: r.rameshrjy@gmail.com
 
 ---
 
