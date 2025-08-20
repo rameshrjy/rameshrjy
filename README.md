@@ -1,61 +1,91 @@
-# Hi there 👋, I'm **Ramesh Ramaiah**!
+# 👋 Hi there, I'm **Ramesh Ramaiah**  
 
-Senior Software Engineer | Web Developer | Tech Enthusiast
-
----
-
-## 🚀 About Me
-I am a passionate **Senior Software Engineer** with 8+ years of experience in web design and development. I specialize in **MVC frameworks** like Laravel and CodeIgniter, and have extensive knowledge of **CMS frameworks** like WordPress. My expertise lies in writing maintainable, efficient, and scalable code for web applications, and I’m always up for new challenges in the world of software engineering.
+🚀 **Senior Software Engineer | Web Developer | AI Agent Builder | Tech Enthusiast**  
 
 ---
 
-## 💼 Professional Experience
+## 🏷️ Tech Stack & Tools  
 
-- **Laravel & PHP Expert:** Developed multiple applications using **Laravel** and **PHP**, managing complex systems with modern technologies.
-- **Web Development:** Full-stack web developer with hands-on experience in **HTML, CSS, JavaScript**, and other modern web technologies.
-- **Database Management:** Skilled in managing and optimizing databases, with a keen interest in **phpMyAdmin** and related tools.
-- **Android Development:** Proficient in **Java** for building mobile apps, ensuring smooth user experiences.
-- **API Integration:** Experience integrating payment gateways such as **PayPal**, **Razorpay**, **Stripe**, and more.
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 
----
+  <!-- AI / Agents -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Emergent%20AI-1E90FF?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-AI-blueviolet?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 
-## 🛠️ Skills
-
-### Programming Languages & Frameworks:
-- PHP, JavaScript, Java, Python
-- Laravel, CodeIgniter, WordPress
-- Vue.js, React.js
-
-### Tools & Platforms:
-- Git, GitHub, Docker
-- phpMyAdmin, MySQL, Firebase
-- REST APIs, Twilio, OneSignal
-
-### Notable Packages:
-- Laravel Paytm Wallet
-- JWT Auth
-- Yajra DataTables
-- Intervention Image
-
----
-
-## 📊 GitHub Stats
-
-![Ramesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rameshrjy&show_icons=true&theme=radical)
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>  
 
 ---
 
-## 📈 Top Languages
+## 🌟 About Me  
+I am a passionate **Senior Software Engineer** with **8+ years of experience** in designing and developing scalable, high-performance applications. My journey has taken me across **web technologies, backend systems, and cutting-edge AI agent development**.  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rameshrjy&layout=compact&theme=radical)
+I specialize in:  
+- Building **maintainable and scalable web applications**  
+- Developing **AI-powered agents** using **OpenAI, Emergent AI, and Anthropic Claude**  
+- Writing **clean, efficient, and robust code** in **Node.js, TypeScript, PHP, Python, and Java**  
+- Exploring the intersection of **AI and software engineering** to create next-gen intelligent systems  
 
 ---
 
-## 📫 How to reach me:
-- LinkedIn: [Ramesh Ramaiah](https://www.linkedin.com/in/rameshramaiah)
-- Email: r.rameshrjy@gmail.com
+## 💼 Professional Experience  
+
+### 🖥️ Web & Backend Development  
+- **Laravel & PHP Expert**: Built multiple enterprise-grade applications with **Laravel** and **PHP**, handling complex business logic and scalability challenges.  
+- **Modern Web Development**: Hands-on with **React.js, Vue.js, and modern JavaScript/TypeScript**.  
+- **API Design & Integration**: Designed and consumed REST APIs, integrated payment systems (**PayPal, Razorpay, Stripe**), and messaging systems (**Twilio, OneSignal**).  
+- **Database Management**: Skilled in **MySQL, phpMyAdmin, Firebase**, ensuring performance and reliability.  
+- **Android Development**: Proficient in **Java** for creating smooth, user-friendly mobile experiences.  
+
+### 🤖 AI & Intelligent Agents  
+- Built **AI Agents** leveraging:  
+  - **OpenAI models** (including advanced GPT-based workflows)  
+  - **Anthropic Claude & Claude Core Router**  
+  - **Emergent AI frameworks** for adaptive agent architectures  
+- Experienced in **multi-agent systems**, orchestrating conversations, and designing **autonomous task-solving pipelines**.  
+- Applied AI to **real-world workflows**: automation, knowledge routing, intelligent decision-making, and developer tools.  
 
 ---
 
-## ⚡ Fun Fact
-I love debugging code! 💻 There's always a puzzle to solve and a story behind every bug.
+## 📊 GitHub Stats  
+
+![Ramesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rameshrjy&show_icons=true&theme=radical)  
+
+---
+
+## 📈 Top Languages  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rameshrjy&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn: Ramesh Ramaiah](https://www.linkedin.com/in/rameshramaiah)  
+- 📧 **r.rameshrjy@gmail.com**  
+
+---
+
+## ⚡ Fun Fact  
+I love **debugging code** 🐞 — every bug is just a puzzle waiting to be solved!  
+
+---
